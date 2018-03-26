@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CityViewer</string>
+    <string name="image">image</string>
+    <string name="chevron">\></string>
+    <string name="bc">Brampton Civic Centre</string>
+    <string name="bs">Brampton Soccer</string>
+    <string name="cc">Cassie Campbell</string>
+    <string name="cp">Chinguacousy Park</string>
+    <string name="gm">Gore Meadows</string>
+    <string name="gp">Gage Park</string>
+    <string name="mpv">Mount Pleasant Village</string>
+    <string name="pa">Peel Art, Museum and Archives</string>
+    <string name="rt">Rose Theatre</string>
+    <string name="sp">Springdale Library</string>
+</resources>
